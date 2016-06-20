@@ -4,7 +4,7 @@
   "description": "Test for showing of Travis Slack Integration",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Success: the tests got executed\" && exit 0"
+    "test": "echo \"Error: the tests failed\" && exit 1"
   },
   "repository": {
     "type": "git",
